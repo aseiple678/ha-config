@@ -1,0 +1,6 @@
+sun.sun:
+  hidden: true
+media_player.led_strip:
+  hidden: true
+media_player.stereo:
+  hidden: true

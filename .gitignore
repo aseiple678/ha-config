@@ -1,5 +1,10 @@
-*
-!*.yaml
 !.gitignore
+.HA_VERSION
+.cloud/
+.storage/
+.uuid
+aircast.xml
+home-assistant.log
+home-assistant_v2.log
+home-assistant_v2.db
 secrets.yaml
-known_devices.yaml

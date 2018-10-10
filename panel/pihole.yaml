@@ -1,0 +1,4 @@
+pihole:
+  title: Pi-Hole
+  icon: mdi:security-network
+  url: !secret pihole_host

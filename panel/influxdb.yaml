@@ -1,0 +1,4 @@
+influxdb:
+  title: InfluxDB
+  icon: mdi:chart-areaspline
+  url: !secret influxdb_host

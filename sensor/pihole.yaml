@@ -1,0 +1,5 @@
+- platform: pi_hole
+  host: a0d7b954_pi-hole
+  monitored_conditions:
+    - ads_blocked_today
+    - ads_percentage_today
